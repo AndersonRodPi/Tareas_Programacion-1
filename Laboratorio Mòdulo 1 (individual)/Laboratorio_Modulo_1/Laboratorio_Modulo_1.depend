@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1708885678 source:c:\users\admi\documents\carpeta para git\didactica2k24\tareas_programacion-1\laboratorio mòdulo 1 (individual)\laboratorio_modulo_1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+
