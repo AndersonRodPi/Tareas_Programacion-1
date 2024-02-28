@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1709138567 source:c:\users\admi\documents\carpeta para git\didactica2k24\tareas_programacion-1\primer_examen_parcial\primer_examen_parcial_iv\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+

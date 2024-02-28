@@ -1,0 +1,17 @@
+commit 74f1bf74a8ca74b7895cff2318aede46572e54d9
+Author: Anderson Rodríguez <arodriguezp16@miumg.edu.gt>
+Date:   Sun Feb 18 22:00:59 2024 -0600
+
+    laboratorio 4
+
+commit 809ce60e1b11ae879ae60ad2c099668e8960890a
+Author: Anderson Rodríguez <arodriguezp16@miumg.edu.gt>
+Date:   Mon Feb 5 23:19:48 2024 -0600
+
+    Primer laboratorio Pseint
+
+commit b3d30d2dc5af35ea40aa6458fbd5adf90f16f39f
+Author: AndersonRodPi <156917572+AndersonRodPi@users.noreply.github.com>
+Date:   Mon Feb 5 18:55:09 2024 -0600
+
+    Initial commit
