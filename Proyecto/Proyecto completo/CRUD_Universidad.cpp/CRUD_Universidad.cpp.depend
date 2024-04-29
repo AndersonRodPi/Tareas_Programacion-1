@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\main.cpp
+	<iostream>
+
+1713145851 source:c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713145851 c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\include\bitacora.h
+	<iostream>
+
+1713144346 source:c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\src\cursos.cpp
+	"Cursos.h"
+
+1713144345 c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\include\cursos.h
+
+1713144377 source:c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\src\horarios.cpp
+	"Horarios.h"
+
+1713144377 c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\include\horarios.h
+
+1713145851 source:c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\src\maestros.cpp
+	"Maestros.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Usuarios.h"
+
+1713145851 c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\include\maestros.h
+	<iostream>
+
+1713145851 c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\include\usuarios.h
+	<iostream>
+
+1713144392 source:c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\src\secciones.cpp
+	"Secciones.h"
+
+1713144392 c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\include\secciones.h
+
+1713144362 source:c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\src\sedes.cpp
+	"Sedes.h"
+
+1713144362 c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\include\sedes.h
+
+1713145851 source:c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\src\usuarios.cpp
+	"Usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"bitacora.h"
+
+1713145893 source:c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\src\alumnos.cpp
+	"Alumnos.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Usuarios.h"
+
+1713145851 c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\tareas_programacion-1\proyecto completo\crud_universidad.cpp\include\alumnos.h
+	<iostream>
+
